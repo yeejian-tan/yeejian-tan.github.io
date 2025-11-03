@@ -60,7 +60,7 @@ please do not hesitate to get in touch with me!
   [Dominique Devriese](https://distrinet.cs.kuleuven.be/people/DominiqueDevriese)
   and [Andreas Nuyts](https://anuyts.github.io/).
 - 2 September 2025: I successfully defended my Masters Year 2 (M2) Project/Thesis on
-  "[Towards Computational UIP in Cubical Agda](files/250820-m2-report.pdf)"!
+  "[Towards Computational UIP in Cubical Agda](files/250820-m2-thesis.pdf)"!
 - 13 June 2025: I gave a talk on the Guard Checker of Rocq
   ([slides](files/250613-types-slides.pdf),
   [recording](https://www.youtube.com/watch?v=IFihciC1_iU&list=PLjPpkiIsfkBP2Iarv-Zvd7QS7WrGcDqem&index=87))
