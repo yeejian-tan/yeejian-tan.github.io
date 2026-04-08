@@ -14,6 +14,8 @@ working with
 [Dominique Devriese](https://distrinet.cs.kuleuven.be/people/DominiqueDevriese)
 and [Andreas Nuyts](https://anuyts.github.io/)
 on implementing Multimodal Type Theory in Agda.
+I am also continuing work from my M2 internship on adding computational rules for
+UIP in Cubical Agda.
 My research interests lie in logic, verified proofs,
 and proof assistants (such as [Rocq][rocq]
 and [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php)).
@@ -23,7 +25,7 @@ I obtained the [Parisian Master of Research in Computer Science (MPRI)][mpri]
 at [*École Polytechnique*][x].
 In my Masters Year 2 internship,
 I worked towards implementing computational UIP in Cubical Agda
-([report](files/250820-m2-thesis.pdf), [code](https://swampertx.github.io/hset-cubical/Everything.html))
+([report](files/250820-m2-thesis.pdf), [code](https://yeejian-tan.github.io/hset-cubical/Everything.html))
 with
 [Dominique Devriese](https://distrinet.cs.kuleuven.be/people/DominiqueDevriese)
 and [Andreas Nuyts](https://anuyts.github.io/).
@@ -54,6 +56,12 @@ or having any questions about getting into type theory research (MPRI, etc),
 please do not hesitate to get in touch with me!
 
 # News
+- 6 May 2026: I will be giving a talk about the current Cubical-UIP implementation
+   at the [TYPES 2026](https://types2026.cse.chalmers.se/index.html)
+   in Gothenburg, Sweden.
+- 24 November 2025: I gave a talk about Cubical-UIP
+   at the [41st Agda Implementor's Meeting](https://wiki.portal.chalmers.se/agda/Main/AIMXLI)
+   in Angers, France.
 - 19 September 2025: I am starting my PhD on implementing Multimodal Type Theory,
   at DistriNet, KU Leuven, Belgium,
   supervised by 
@@ -61,14 +69,14 @@ please do not hesitate to get in touch with me!
   and [Andreas Nuyts](https://anuyts.github.io/).
 - 2 September 2025: I successfully defended my Masters Year 2 (M2) Project/Thesis on
   "[Towards Computational UIP in Cubical Agda](files/250820-m2-thesis.pdf)"!
-- 13 June 2025: I gave a talk on the Guard Checker of Rocq
+<!-- - 13 June 2025: I gave a talk on the Guard Checker of Rocq
   ([slides](files/250613-types-slides.pdf),
   [recording](https://www.youtube.com/watch?v=IFihciC1_iU&list=PLjPpkiIsfkBP2Iarv-Zvd7QS7WrGcDqem&index=87))
   at [TYPES 2025](https://msp.cis.strath.ac.uk/types2025/) in Glasgow, Scotland.
 - 1 April 2025: I am starting my Masters Year 2 (M2) internship at KU Leuven with
   [Andreas Nuyts](https://anuyts.github.io/) and
   [Dominique Devriese](https://distrinet.cs.kuleuven.be/people/DominiqueDevriese),
-  working on implementing new type theory primitives in the Agda proof assistant.
+  working on implementing new type theory primitives in the Agda proof assistant. -->
 
 <!-- - 25 October 2024: My [Masters 1 Project/Thesis](#theses) received an Honourable Mention
   (_"Mention de Félicitations"_) from École Polytechnique! -->
@@ -98,6 +106,11 @@ please do not hesitate to get in touch with me!
   Science. -->
 
 # Talks
+- **Towards Computational UIP in Cubical Agda**\
+  Joint work with Andreas Nuyts, Dominique Devriese.
+  <!-- - Talk at TYPES 2026 -->
+  - Talk at DRADS 2026 ([slides](files/2026-drads-slides.pdf)).
+  - Talk at the 41st Agda Implementors' Meeting 2026 ([slides](files/2026-aimxli-slides.pdf)).
 - **Towards Formalizing the Guard Condition of Rocq**\
   Joint work with Yannick Forster.
   - [Talk](https://www.youtube.com/watch?v=IFihciC1_iU&list=PLjPpkiIsfkBP2Iarv-Zvd7QS7WrGcDqem&index=87)
@@ -118,7 +131,7 @@ please do not hesitate to get in touch with me!
 - **Towards Computational UIP in Cubical Agda**\
   Masters Year 2 Thesis, IP Paris (École Polytechnique), 2025.\
   Supervised by Andreas Nuyts, Dominique Devriese.\
-  [Report](files/250820-m2-thesis.pdf), [Slides](files/250902-m2-slides.pdf), [Code](https://swampertx.github.io/hset-cubical/Everything.html).
+  [Report](files/250820-m2-thesis.pdf), [Slides](files/250902-m2-slides.pdf), [Code](https://yeejian-tan.github.io/hset-cubical/Everything.html).
 
 - **Towards Formalising the Guard Checker of Rocq**\
   Masters Year 1 Thesis, IP Paris (École Polytechnique), 2024.\
@@ -131,7 +144,7 @@ please do not hesitate to get in touch with me!
   Supervised by Nicolas Tabareau, Martin Henz, Yue Yang.\
   [Report](files/XFC4101.Final.Report.pdf),
   [Slides](files/XFC4101.Final.Presentation.pdf),
-  [Code](https://github.com/SwampertX/metacoq/tree/yeejian-thesis).
+  [Code](https://github.com/yeejian-tan/metacoq/tree/yeejian-thesis).
 
 
 # Projects and Reports
