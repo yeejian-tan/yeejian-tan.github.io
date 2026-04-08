@@ -29,8 +29,8 @@ main:
   - title: "Music"
     url: /music.html
 
-  - title: "Misc"
-    url: /misc.html
+  - title: "Links"
+    url: /links.html
     
   # - title: "CV"
   #   url: /cv-json/

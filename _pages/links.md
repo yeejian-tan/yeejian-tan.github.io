@@ -1,5 +1,5 @@
 ---
-permalink: /misc
+permalink: /links
 title: ""
 ---
 
@@ -18,6 +18,8 @@ title: ""
   
   ![mpri1](images/240320-mpri.jpg) ![mpri2](images/240117-mpri.jpg)
 
+- My sister, See Huey Tan is a lyric soprano based in Germany. Check out some of her [performances](https://www.instagram.com/tanseehuey/)!
+
 - [Some colourful language by mathematicians](https://mathoverflow.net/questions/22299/what-are-some-examples-of-colorful-language-in-serious-mathematics-papers).\
   My favourite so far is a [quote](https://mathoverflow.net/a/22360) by Andrew Weil:
   
@@ -26,3 +28,4 @@ title: ""
 - Pierre-Marie Pédrot's [page](https://www.pédrot.fr/).\
   Beautiful slides, see for example
   [https://www.pédrot.fr/slides/lics-07-20.pdf](https://www.pédrot.fr/slides/lics-07-20.pdf)
+
