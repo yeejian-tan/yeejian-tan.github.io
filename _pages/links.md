@@ -11,7 +11,7 @@ title: ""
   - [Shashankh Chandarr](https://www.linkedin.com/in/shashankh)
   - [Hugo Demaret](https://www.hugodemaret.fr/)
   - [Dimitri Korkotashvili](https://www.linkedin.com/in/dimitri-korkotashvili-259242227)
-  - [Yanni Lefki](https://www.linkedin.com/in/yanni-lefki-495a12212/)
+  - [Yanni Lefki](https://yannilefki.github.io/)
   - [Samar Rahmouni](https://natvern.github.io/)
   - [Poyraz Yilan](https://yilanp.github.io/index.html)
 

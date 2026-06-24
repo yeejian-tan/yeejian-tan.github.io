@@ -1,5 +1,10 @@
 {
-	"name": "OOjs UI icon academic-progressive",
+	"name": "Yee-Jian Tan",
+	"short_name": "Yee-Jian Tan",
+	"start_url": "/",
+	"display": "minimal-ui",
+	"background_color": "#ffffff",
+	"theme_color": "#ffffff",
 	"icons": [
 		{
 			"src": "/images/favicon-192x192.png",

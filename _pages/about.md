@@ -72,8 +72,8 @@ please do not hesitate to get in touch with me!
 <!-- - 13 June 2025: I gave a talk on the Guard Checker of Rocq
   ([slides](files/250613-types-slides.pdf),
   [recording](https://www.youtube.com/watch?v=IFihciC1_iU&list=PLjPpkiIsfkBP2Iarv-Zvd7QS7WrGcDqem&index=87))
-  at [TYPES 2025](https://msp.cis.strath.ac.uk/types2025/) in Glasgow, Scotland.
-- 1 April 2025: I am starting my Masters Year 2 (M2) internship at KU Leuven with
+  at [TYPES 2025](https://msp.cis.strath.ac.uk/types2025/) in Glasgow, Scotland. -->
+<!-- - 1 April 2025: I am starting my Masters Year 2 (M2) internship at KU Leuven with
   [Andreas Nuyts](https://anuyts.github.io/) and
   [Dominique Devriese](https://distrinet.cs.kuleuven.be/people/DominiqueDevriese),
   working on implementing new type theory primitives in the Agda proof assistant. -->
