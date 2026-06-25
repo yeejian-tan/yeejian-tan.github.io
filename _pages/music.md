@@ -1,6 +1,8 @@
 ---
-permalink: /music
+permalink: /music/
 title: "Music"
+redirect_from: 
+  - /music.html
 ---
 
 I have been playing the piano since I was 5, and I _love_ classical music.

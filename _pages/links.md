@@ -1,6 +1,8 @@
 ---
-permalink: /links
+permalink: /links/
 title: "Links"
+redirect_from: 
+  - /links.html
 ---
 
 - I am glad to have met these amazing friends during MPRI at IP Paris
