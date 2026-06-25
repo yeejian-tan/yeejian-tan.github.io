@@ -1,9 +1,7 @@
 ---
 permalink: /music
-title: ""
+title: "Music"
 ---
-
-# Music
 
 I have been playing the piano since I was 5, and I _love_ classical music.
 My favourite composers are Chopin and Rachmaninoff for their heart-wrenching melodies.

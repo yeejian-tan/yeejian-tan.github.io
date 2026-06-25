@@ -1,9 +1,7 @@
 ---
 permalink: /links
-title: ""
+title: "Links"
 ---
-
-# Links
 
 - I am glad to have met these amazing friends during MPRI at IP Paris
   (École Polytechnique). To commemorate our friendship, here are their websites:
