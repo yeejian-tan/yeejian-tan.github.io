@@ -1,8 +1,9 @@
 ---
+layout: home
 permalink: /
 title: ""
 excerpt: "About me"
-author_profile: true
+tagline: "PhD student at DistriNet, KU Leuven. Implementing Type Theories into Proof Assistants."
 redirect_from: 
   - /about/
   - /about.html
@@ -55,7 +56,7 @@ If you are interested in my research, looking for collaboration,
 or having any questions about getting into type theory research (MPRI, etc),
 please do not hesitate to get in touch with me!
 
-# News
+## News
 - 6 May 2026: I will be giving a talk about the current Cubical-UIP implementation
    at the [TYPES 2026](https://types2026.cse.chalmers.se/index.html)
    in Gothenburg, Sweden.
@@ -105,7 +106,7 @@ please do not hesitate to get in touch with me!
   I obtained two Bachelor's degrees: one in Mathematics, and another in Computer
   Science. -->
 
-# Talks
+## Talks
 - **Towards Computational UIP in Cubical Agda**\
   Joint work with Andreas Nuyts, Dominique Devriese.
   <!-- - Talk at TYPES 2026 -->
@@ -127,7 +128,7 @@ please do not hesitate to get in touch with me!
   [Talk](https://www.youtube.com/watch?v=vRjOP5fbZyE) at SPLASH-E 2021
   ([slides](https://docs.google.com/presentation/d/13UPfBfDuQkFKyGDABhCrw-sHfX3GnLAmGMr-b2JaW0U/edit?usp=sharing)). 
 
-# Theses
+## Theses
 - **Towards Computational UIP in Cubical Agda**\
   Masters Year 2 Thesis, IP Paris (École Polytechnique), 2025.\
   Supervised by Andreas Nuyts, Dominique Devriese.\
@@ -147,13 +148,13 @@ please do not hesitate to get in touch with me!
   [Code](https://github.com/yeejian-tan/metacoq/tree/yeejian-thesis).
 
 
-# Projects and Reports
+## Projects and Reports
 
 - [Formalizing Dependent Types in Agda](files/m1-project-report.pdf) (~equivalent to 1-month internship)\
   Supervised by [Ambrus Kaposi](https://akaposi.github.io).
   <!-- [Report](files/m1-project-report.pdf) -->
 
-# Publications
+## Publications
 - [A Stepper for a Functional JavaScript
    Sublanguage](https://dl.acm.org/doi/abs/10.1145/3484272.3484968).\
    Joint work with Martin Henz, Thomas Tan, Zachary Chua, Peter Jung, Xinyi Zhang,
@@ -162,7 +163,7 @@ please do not hesitate to get in touch with me!
    of the 2021 ACM SIGPLAN International Symposium on SPLASH-E, October 2021, pp. 71–81.
 
 
-# CV
+## CV
 - 2025: Masters in Computer Science Research (_Master Parisien de Recherche en Informatique (MPRI)_).\
   Institut Polytechnique de Paris (École Polytechnique).\
   Magna cum Laude.
