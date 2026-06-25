@@ -16,7 +16,7 @@ redirect_from:
   - [Poyraz Yilan](https://yilanp.github.io/index.html)
 
   
-  ![mpri1](images/240320-mpri.jpg) ![mpri2](images/240117-mpri.jpg)
+  ![mpri1](/images/240320-mpri.jpg) ![mpri2](/images/240117-mpri.jpg)
 
 - My sister, See Huey Tan is a lyric soprano based in Germany. Check out some of her [performances](https://www.instagram.com/tanseehuey/)!
 
