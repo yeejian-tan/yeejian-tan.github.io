@@ -1,9 +1,9 @@
 ---
-permalink: /links
-title: ""
+permalink: /links/
+title: "Links"
+redirect_from: 
+  - /links.html
 ---
-
-# Links
 
 - I am glad to have met these amazing friends during MPRI at IP Paris
   (École Polytechnique). To commemorate our friendship, here are their websites:
@@ -16,7 +16,7 @@ title: ""
   - [Poyraz Yilan](https://yilanp.github.io/index.html)
 
   
-  ![mpri1](images/240320-mpri.jpg) ![mpri2](images/240117-mpri.jpg)
+  ![mpri1](/images/240320-mpri.jpg) ![mpri2](/images/240117-mpri.jpg)
 
 - My sister, See Huey Tan is a lyric soprano based in Germany. Check out some of her [performances](https://www.instagram.com/tanseehuey/)!
 

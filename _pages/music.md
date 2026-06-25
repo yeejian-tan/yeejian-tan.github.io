@@ -1,6 +1,8 @@
 ---
-permalink: /music
-title: ""
+permalink: /music/
+title: "Music"
+redirect_from: 
+  - /music.html
 ---
 
 I have been playing the piano since I was 5, and I _love_ classical music.
@@ -13,13 +15,16 @@ please do not hesitate to contact me if you are interested!
 
 Please enjoy some of my past performances here!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UNuNcsjRfCw?si=DxzqDLTjVOGKjq2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yYoa9ohpBgA?si=TwWivYOyGJQdQH5G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sxg3595Zyek?si=q0ujdS1KwG-cwKFm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include youtube.html id="UNuNcsjRfCw" title="Sergei Rachmaninov: Symphonic
+Dances, Op. 45: I. Non allegro" %}
 
 
+{% include youtube.html id="yYoa9ohpBgA" title="Francis Poulenc: Concerto for
+Two Pianos in D minor, FP. 61: I. Allegro ma non troppo" %}
+
+{% include youtube.html id="sxg3595Zyek" title="Witold Lutosławski: Variations on a Theme of Paganini, for two pianos" %}
+
+<br/>
 
 I also play the Chinese traditional instrument [Erhu](https://en.wikipedia.org/wiki/Erhu),
 a two-string bowed fiddle with a uniquely expressive, sometimes melancholic timbre.
@@ -27,9 +32,9 @@ Here are some videos of me in an [Chinese Orchestra](https://en.wikipedia.org/wi
 where I also play the Double Bass.
 Good luck finding me in the following videos!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GgTIGUHl28o?si=q1TunmUslpii7mN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include youtube.html id="GgTIGUHl28o" title="Bian Ba 《边巴》| NUS Chinese Orchestra" %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aKxRmiAqXHk?si=0TeWzVPwODLoRAeJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include youtube.html id="aKxRmiAqXHk" title="Crimson Sorghum: III. The Green Field 《高粱红了 III：青纱帐》| NUS Chinese Orchestra" %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OrONAIH0ZuY?si=rCIJvtIYEmmzgkeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include youtube.html id="OrONAIH0ZuY" title="Reminiscences of Yunnan, III. Allegro 《云南回忆 III. 机械的快板》| NUS Chinese Orchestra" %}
 

@@ -1,8 +1,9 @@
 ---
+layout: home
 permalink: /
 title: ""
 excerpt: "About me"
-author_profile: true
+tagline: "PhD student at DistriNet, KU Leuven. Implementing Type Theories into Proof Assistants."
 redirect_from: 
   - /about/
   - /about.html
@@ -25,7 +26,7 @@ I obtained the [Parisian Master of Research in Computer Science (MPRI)][mpri]
 at [*École Polytechnique*][x].
 In my Masters Year 2 internship,
 I worked towards implementing computational UIP in Cubical Agda
-([report](files/250820-m2-thesis.pdf), [code](https://yeejian-tan.github.io/hset-cubical/Everything.html))
+([report](/files/250820-m2-thesis.pdf), [code](https://yeejian-tan.github.io/hset-cubical/Everything.html))
 with
 [Dominique Devriese](https://distrinet.cs.kuleuven.be/people/DominiqueDevriese)
 and [Andreas Nuyts](https://anuyts.github.io/).
@@ -55,7 +56,7 @@ If you are interested in my research, looking for collaboration,
 or having any questions about getting into type theory research (MPRI, etc),
 please do not hesitate to get in touch with me!
 
-# News
+## News
 - 6 May 2026: I will be giving a talk about the current Cubical-UIP implementation
    at the [TYPES 2026](https://types2026.cse.chalmers.se/index.html)
    in Gothenburg, Sweden.
@@ -68,9 +69,9 @@ please do not hesitate to get in touch with me!
   [Dominique Devriese](https://distrinet.cs.kuleuven.be/people/DominiqueDevriese)
   and [Andreas Nuyts](https://anuyts.github.io/).
 - 2 September 2025: I successfully defended my Masters Year 2 (M2) Project/Thesis on
-  "[Towards Computational UIP in Cubical Agda](files/250820-m2-thesis.pdf)"!
+  "[Towards Computational UIP in Cubical Agda](/files/250820-m2-thesis.pdf)"!
 <!-- - 13 June 2025: I gave a talk on the Guard Checker of Rocq
-  ([slides](files/250613-types-slides.pdf),
+  ([slides](/files/250613-types-slides.pdf),
   [recording](https://www.youtube.com/watch?v=IFihciC1_iU&list=PLjPpkiIsfkBP2Iarv-Zvd7QS7WrGcDqem&index=87))
   at [TYPES 2025](https://msp.cis.strath.ac.uk/types2025/) in Glasgow, Scotland. -->
 <!-- - 1 April 2025: I am starting my Masters Year 2 (M2) internship at KU Leuven with
@@ -91,8 +92,8 @@ please do not hesitate to get in touch with me!
   in which I implemented the Guard Checker of Rocq in MetaRocq
   and documented its behaviour!
   Here are the [code](https://github.com/inria-cambium/m1-tan),
-  [report](files/240827-report.pdf),
-  and [slides](files/240827-slides.pdf). -->
+  [report](/files/240827-report.pdf),
+  and [slides](/files/240827-slides.pdf). -->
 <!-- - 10-14 June 2024: I am attending [TYPES 2024](https://types2024.itu.dk/) in Copenhagen, Denmark. -->
 <!-- - 3 June 2024: I gave a talk on the guard checker of Coq
   at the [RECIPROG](https://www.irif.fr/reciprog/workshop-guarded-june24) workshop in Nantes, France. -->
@@ -105,20 +106,20 @@ please do not hesitate to get in touch with me!
   I obtained two Bachelor's degrees: one in Mathematics, and another in Computer
   Science. -->
 
-# Talks
+## Talks
 - **Towards Computational UIP in Cubical Agda**\
   Joint work with Andreas Nuyts, Dominique Devriese.
   <!-- - Talk at TYPES 2026 -->
-  - Talk at DRADS 2026 ([slides](files/2026-drads-slides.pdf)).
-  - Talk at the 41st Agda Implementors' Meeting 2026 ([slides](files/2026-aimxli-slides.pdf)).
+  - Talk at DRADS 2026 ([slides](/files/2026-drads-slides.pdf)).
+  - Talk at the 41st Agda Implementors' Meeting 2026 ([slides](/files/2026-aimxli-slides.pdf)).
 - **Towards Formalizing the Guard Condition of Rocq**\
   Joint work with Yannick Forster.
   - [Talk](https://www.youtube.com/watch?v=IFihciC1_iU&list=PLjPpkiIsfkBP2Iarv-Zvd7QS7WrGcDqem&index=87)
-    at TYPES 2025 ([slides](files/250613-types-slides.pdf)), 13 June 2025.
-  - Talk at Coq Workshop 2024 ([slides](files/240914-coqws-slides.pdf)), 24 September 2024.
+    at TYPES 2025 ([slides](/files/250613-types-slides.pdf)), 13 June 2025.
+  - Talk at Coq Workshop 2024 ([slides](/files/240914-coqws-slides.pdf)), 24 September 2024.
   - Invited talk at the
     Workshop on the guard condition of Coq, RECIPROG
-    ([slides](files/240603-reciprog-slides.pdf)),
+    ([slides](/files/240603-reciprog-slides.pdf)),
     3 June 2024.
 
 - **A Stepper for a Functional JavaScript Sublanguage**\
@@ -127,33 +128,33 @@ please do not hesitate to get in touch with me!
   [Talk](https://www.youtube.com/watch?v=vRjOP5fbZyE) at SPLASH-E 2021
   ([slides](https://docs.google.com/presentation/d/13UPfBfDuQkFKyGDABhCrw-sHfX3GnLAmGMr-b2JaW0U/edit?usp=sharing)). 
 
-# Theses
+## Theses
 - **Towards Computational UIP in Cubical Agda**\
   Masters Year 2 Thesis, IP Paris (École Polytechnique), 2025.\
   Supervised by Andreas Nuyts, Dominique Devriese.\
-  [Report](files/250820-m2-thesis.pdf), [Slides](files/250902-m2-slides.pdf), [Code](https://yeejian-tan.github.io/hset-cubical/Everything.html).
+  [Report](/files/250820-m2-thesis.pdf), [Slides](/files/250902-m2-slides.pdf), [Code](https://yeejian-tan.github.io/hset-cubical/Everything.html).
 
 - **Towards Formalising the Guard Checker of Rocq**\
   Masters Year 1 Thesis, IP Paris (École Polytechnique), 2024.\
   Supervised by Yannick Forster.\
   Honourable Mention (_"Mention de Félicitations"_) by École Polytechnique on L3/M1 Theses.\
-  [Report](files/240827-report.pdf), [Slides](files/240827-slides.pdf), [Code](https://github.com/inria-cambium/m1-tan).
+  [Report](/files/240827-report.pdf), [Slides](/files/240827-slides.pdf), [Code](https://github.com/inria-cambium/m1-tan).
 
 - **Formalizing Rocq Modules in the MetaCoq Project**\
   Bachelor's Thesis, National University of Singapore, 2023.\
   Supervised by Nicolas Tabareau, Martin Henz, Yue Yang.\
-  [Report](files/XFC4101.Final.Report.pdf),
-  [Slides](files/XFC4101.Final.Presentation.pdf),
+  [Report](/files/XFC4101.Final.Report.pdf),
+  [Slides](/files/XFC4101.Final.Presentation.pdf),
   [Code](https://github.com/yeejian-tan/metacoq/tree/yeejian-thesis).
 
 
-# Projects and Reports
+## Projects and Reports
 
-- [Formalizing Dependent Types in Agda](files/m1-project-report.pdf) (~equivalent to 1-month internship)\
+- [Formalizing Dependent Types in Agda](/files/m1-project-report.pdf) (~equivalent to 1-month internship)\
   Supervised by [Ambrus Kaposi](https://akaposi.github.io).
-  <!-- [Report](files/m1-project-report.pdf) -->
+  <!-- [Report](/files/m1-project-report.pdf) -->
 
-# Publications
+## Publications
 - [A Stepper for a Functional JavaScript
    Sublanguage](https://dl.acm.org/doi/abs/10.1145/3484272.3484968).\
    Joint work with Martin Henz, Thomas Tan, Zachary Chua, Peter Jung, Xinyi Zhang,
@@ -162,7 +163,7 @@ please do not hesitate to get in touch with me!
    of the 2021 ACM SIGPLAN International Symposium on SPLASH-E, October 2021, pp. 71–81.
 
 
-# CV
+## CV
 - 2025: Masters in Computer Science Research (_Master Parisien de Recherche en Informatique (MPRI)_).\
   Institut Polytechnique de Paris (École Polytechnique).\
   Magna cum Laude.
@@ -173,4 +174,4 @@ please do not hesitate to get in touch with me!
 - 2023: B.Sc (Hons) Mathematics with (Highest Distinction), National University of Singapore.\
   Focus areas: Logic, Abstract Algebra
 
-Click [here](files/cv.pdf) for a full CV.
+Click [here](/files/cv.pdf) for a full CV.

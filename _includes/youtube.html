@@ -1,0 +1,9 @@
+<figure class="yt-fig">
+  <div class="yt" data-id="{{ include.id }}">
+    <button type="button" aria-label="Play video{% if include.title %}: {{ include.title }}{% endif %}">
+      <img src="https://i.ytimg.com/vi/{{ include.id }}/hqdefault.jpg" alt="" loading="lazy" width="480" height="360">
+      <span class="yt-btn" aria-hidden="true">&#9654;</span>
+    </button>
+  </div>
+  {% if include.title %}<figcaption>{{ include.title }}</figcaption>{% endif %}
+</figure>

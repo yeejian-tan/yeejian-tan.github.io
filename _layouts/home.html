@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<section class="hero">
+  {% if site.author.avatar %}
+    <img class="avatar" src="{{ '/images/' | append: site.author.avatar | relative_url }}"
+         alt="{{ site.author.name | default: site.title }}" width="120" height="120">
+  {% endif %}
+  <div class="hero-text">
+    <h1>{{ site.author.name | default: site.title }}</h1>
+    {% if page.tagline %}<p class="tagline">{{ page.tagline }}</p>{% endif %}
+    <div class="socials">
+      {% if site.author.email %}<a href="mailto:{{ site.author.email }}" aria-label="Email"><svg aria-hidden="true"><use href="#i-mail"></use></svg></a>{% endif %}
+      {% if site.author.github %}<a href="https://github.com/{{ site.author.github }}" aria-label="GitHub"><svg aria-hidden="true"><use href="#i-github"></use></svg></a>{% endif %}
+      {% if site.author.linkedin %}<a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" aria-label="LinkedIn"><svg aria-hidden="true"><use href="#i-linkedin"></use></svg></a>{% endif %}
+      {% if site.author.mastodon %}<a href="{{ site.author.mastodon }}" rel="me" aria-label="Mastodon"><svg aria-hidden="true"><use href="#i-mastodon"></use></svg></a>{% endif %}
+      {% if site.author.orcid %}<a href="{{ site.author.orcid }}" aria-label="ORCID"><svg aria-hidden="true"><use href="#i-orcid"></use></svg></a>{% endif %}
+    </div>
+  </div>
+</section>
+
+{{ content }}
