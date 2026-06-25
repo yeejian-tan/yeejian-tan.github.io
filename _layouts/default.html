@@ -11,13 +11,18 @@ layout: compress
 
     <link rel="alternate" type="application/atom+xml" href="{{ '/feed.xml' | relative_url }}" title="{{ site.title }}">
 
-    <!-- Favicons (see images/) -->
+    <!-- Favicon intentionally disabled (the site ships blank). To re-enable:
+         pick a design from images/favicon-designs/, copy it to images/favicon.svg
+         and regenerate the raster sizes (see that folder's README.md), then
+         remove the comment markers around the block below. -->
+    <!--
     <link rel="icon" href="{{ '/images/favicon.svg' | relative_url }}" type="image/svg+xml">
     <link rel="icon" href="{{ '/images/favicon-32x32.png' | relative_url }}" sizes="32x32" type="image/png">
     <link rel="icon" href="{{ '/images/favicon-192x192.png' | relative_url }}" sizes="192x192" type="image/png">
     <link rel="apple-touch-icon" href="{{ '/images/apple-touch-icon-180x180.png' | relative_url }}">
     <link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}" sizes="any">
     <link rel="manifest" href="{{ '/images/manifest.json' | relative_url }}">
+    -->
     <meta name="theme-color" content="#ffffff">
 
     <!-- Set theme before paint to avoid a flash. -->
